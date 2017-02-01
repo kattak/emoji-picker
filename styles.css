@@ -1,0 +1,19 @@
+.emoji{
+  display: inline-block;
+  margin: 0px;
+  padding: 3px;
+  border: 2px solid transparent;
+}
+
+.emojibox{
+  max-width: 360px;
+}
+
+.selected{
+  border: 2px solid #30EF37;
+  background-color: #A5EDA8;
+  border-radius:5px
+}
+.unselected{
+
+}
